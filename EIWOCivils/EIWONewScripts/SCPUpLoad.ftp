@@ -1,0 +1,3 @@
+cd /pickup
+put *.gpg
+exit

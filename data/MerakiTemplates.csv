@@ -1,0 +1,11 @@
+Template,cidr,mask
+East - Template 3.0,10.6.32.0/19,24
+West - Template 3.0,10.6.32.0/19,24
+Central - Template 3.0,10.6.32.0/19,24
+West - Template 2.0,10.7.96.0/19,24
+Central - Template 2.0,10.7.96.0/19,24
+East - Template 2.0,10.7.96.0/19,24
+Central - Template MX68,10.7.128.0/17,24
+West - Template,10.7.128.0/17,24
+Central - Template,10.7.128.0/17,24
+East - Template,10.7.128.0/17,24

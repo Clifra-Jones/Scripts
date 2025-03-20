@@ -1,0 +1,4 @@
+cd /dropoff
+get *.*
+rm *.*
+exit

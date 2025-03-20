@@ -1,0 +1,5 @@
+Identifier,Tag: Name,Service,Type,Region,Tag: Landscape,Tags
+app/BBUS-ELB/4f7300302d82b063,BBUS-ELB,ElasticLoadBalancingV2,LoadBalancer,us-east-1,Production,2
+app/playbook-alb/5d985518400cf97f,playbook-elb,ElasticLoadBalancingV2,LoadBalancer,us-east-1,Production,2
+app/Zabbix-ALB/6129bfd3729b21be,Zabbix-ELB,ElasticLoadBalancingV2,LoadBalancer,us-east-1,Production,0
+app/Deltek-Internal/ca59248530b8d3a8,Deltex-ELB,ElasticLoadBalancingV2,LoadBalancer,us-east-1,Production,0

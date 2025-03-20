@@ -1,0 +1,27 @@
+{
+    "sheets": [
+        {
+            "id": 2398104696711044,
+            "name": "ADStaleAccounts-EmpID_bbc",
+            "accessLevel": "OWNER",
+            "permalink": "https://app.smartsheet.com/sheets/xvC3vgr539Hg4FP35C9fP83G6v9fG2P9QRp48CC1",
+            "createdAt": "2022-06-30T15:05:04Z",
+            "modifiedAt": "2022-06-30T17:10:17Z"
+        }
+    ],
+    "folders": [
+        {
+            "id": 8840603699046276,
+            "name": "Test1",
+            "permalink": "https://app.smartsheet.com/folders/9f23wJ5VvWGPh5CJhPJgw5J5hQvwR3Qr99MCg7H1",
+            "folders": [
+                {
+                    "id": 26918490793860,
+                    "name": "Test2",
+                    "permalink": "https://app.smartsheet.com/folders/jjVCjRqxvJx5C5G9F8Cw6pJ5FHX8fgrcG6xWxrh1"
+                }
+            ]
+        }
+    ],
+    "workspaces": []
+}

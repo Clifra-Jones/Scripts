@@ -1,0 +1,12 @@
+InstanceId,Region,BackupAction
+i-0641e4f3c2a5c9c5e,us-east-1,AWSPRD-Monthly-Snaps
+i-0e5a24a2c2b81a398,us-east-1,AWSPRD-Monthly-Snaps
+i-02b93739dc6351ebe,us-east-2,AWSPRD-Monthly-Snaps
+i-052feb33b874b5e06,us-east-1,AWSPRD-Monthly-Snaps
+i-096d20626d5f8333c,us-east-2,AWSPRD-Monthly-Snaps
+i-4534wr34r2r6455fr5,us-west-2,AWSPRD-Weekly-Snaps
+i-0a251d1e33ebcc971,us-west-2,AWSPRD-Monthly-Snaps
+i-0ecb68671d1576974,us-east-1,AWSPRD-Monthly-Snaps
+i-07de4fef31c99db6e,us-west-2,AWSPRD-Monthly-Snaps
+i-8a5e5f543r376c43e,us-east-2,AWSPRD-Daily-Snaps
+i-9ugdt5rew42e34fs4,us-east-1,AWSPRD-Weekly-Snaps

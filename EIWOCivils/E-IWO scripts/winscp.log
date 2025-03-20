@@ -1,0 +1,306 @@
+. 2019-01-17 15:05:09.557 --------------------------------------------------------------------------
+. 2019-01-17 15:05:09.572 WinSCP Version 5.13.6 (Build 9061) (OS 10.0.16299 - Windows 10 Pro)
+. 2019-01-17 15:05:09.572 Configuration: HKCU\Software\Martin Prikryl\WinSCP 2\
+. 2019-01-17 15:05:09.572 Log level: Normal
+. 2019-01-17 15:05:09.572 Local account: BBC\cwadmin
+. 2019-01-17 15:05:09.572 Working directory: C:\E-IWO scripts
+. 2019-01-17 15:05:09.572 Process ID: 9088
+. 2019-01-17 15:05:09.572 Command-line: "C:\Program Files (x86)\WinSCP\WinSCP.exe" /console=5.13.6 /consoleinstance=_1000_330 "/log=c:\E-IWO scripts\winscp.log" 
+. 2019-01-17 15:05:09.572 Time zone: Current: GMT-5, Standard: GMT-5 (Eastern Standard Time), DST: GMT-4 (Eastern Daylight Time), DST Start: 3/10/2019, DST End: 11/3/2019
+. 2019-01-17 15:05:09.588 Login time: Thursday, January 17, 2019 3:05:09 PM
+. 2019-01-17 15:05:09.588 --------------------------------------------------------------------------
+. 2019-01-17 15:05:09.588 Script: Retrospectively logging previous script records:
+> 2019-01-17 15:05:09.588 Script: open sftp://eiwo:***@sftptest/bbiius.com:2222
+. 2019-01-17 15:05:09.588 --------------------------------------------------------------------------
+. 2019-01-17 15:05:09.588 Session name: eiwo@sftptest (Ad-Hoc site)
+. 2019-01-17 15:05:09.588 Host name: sftptest (Port: 22)
+. 2019-01-17 15:05:09.588 User name: eiwo (Password: Yes, Key file: No, Passphrase: No)
+. 2019-01-17 15:05:09.588 Tunnel: No
+. 2019-01-17 15:05:09.588 Transfer Protocol: SFTP
+. 2019-01-17 15:05:09.588 Ping type: Off, Ping interval: 30 sec; Timeout: 15 sec
+. 2019-01-17 15:05:09.588 Disable Nagle: No
+. 2019-01-17 15:05:09.588 Proxy: None
+. 2019-01-17 15:05:09.588 Send buffer: 262144
+. 2019-01-17 15:05:09.588 SSH protocol version: 2; Compression: No
+. 2019-01-17 15:05:09.588 Bypass authentication: No
+. 2019-01-17 15:05:09.588 Try agent: Yes; Agent forwarding: No; TIS/CryptoCard: No; KI: Yes; GSSAPI: Yes
+. 2019-01-17 15:05:09.588 GSSAPI: Forwarding: No; Libs: gssapi32,sspi,custom; Custom: 
+. 2019-01-17 15:05:09.588 Ciphers: aes,chacha20,blowfish,3des,WARN,arcfour,des; Ssh2DES: No
+. 2019-01-17 15:05:09.588 KEX: ecdh,dh-gex-sha1,dh-group14-sha1,rsa,WARN,dh-group1-sha1
+. 2019-01-17 15:05:09.588 SSH Bugs: Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto
+. 2019-01-17 15:05:09.588 Simple channel: Yes
+. 2019-01-17 15:05:09.588 Return code variable: Autodetect; Lookup user groups: Auto
+. 2019-01-17 15:05:09.588 Shell: default
+. 2019-01-17 15:05:09.588 EOL: LF, UTF: Auto
+. 2019-01-17 15:05:09.588 Clear aliases: Yes, Unset nat.vars: Yes, Resolve symlinks: Yes; Follow directory symlinks: No
+. 2019-01-17 15:05:09.588 LS: ls -la, Ign LS warn: Yes, Scp1 Comp: No
+. 2019-01-17 15:05:09.588 SFTP Bugs: Auto,Auto
+. 2019-01-17 15:05:09.588 SFTP Server: default
+. 2019-01-17 15:05:09.588 Local directory: default, Remote directory: /bbiius.com:2222, Update: Yes, Cache: Yes
+. 2019-01-17 15:05:09.588 Cache directory changes: Yes, Permanent: Yes
+. 2019-01-17 15:05:09.588 Recycle bin: Delete to: No, Overwritten to: No, Bin path: 
+. 2019-01-17 15:05:09.588 DST mode: Unix
+. 2019-01-17 15:05:09.588 --------------------------------------------------------------------------
+. 2019-01-17 15:05:09.588 Looking up host "sftptest" for SSH connection
+. 2019-01-17 15:05:17.150 --------------------------------------------------------------------------
+. 2019-01-17 15:05:17.150 WinSCP Version 5.13.6 (Build 9061) (OS 10.0.16299 - Windows 10 Pro)
+. 2019-01-17 15:05:17.150 Configuration: HKCU\Software\Martin Prikryl\WinSCP 2\
+. 2019-01-17 15:05:17.150 Log level: Normal
+. 2019-01-17 15:05:17.150 Local account: BBC\cwadmin
+. 2019-01-17 15:05:17.150 Working directory: C:\E-IWO scripts
+. 2019-01-17 15:05:17.150 Process ID: 9088
+. 2019-01-17 15:05:17.150 Command-line: "C:\Program Files (x86)\WinSCP\WinSCP.exe" /console=5.13.6 /consoleinstance=_1000_330 "/log=c:\E-IWO scripts\winscp.log" 
+. 2019-01-17 15:05:17.150 Time zone: Current: GMT-5, Standard: GMT-5 (Eastern Standard Time), DST: GMT-4 (Eastern Daylight Time), DST Start: 3/10/2019, DST End: 11/3/2019
+. 2019-01-17 15:05:17.150 Login time: Thursday, January 17, 2019 3:05:17 PM
+. 2019-01-17 15:05:17.150 --------------------------------------------------------------------------
+. 2019-01-17 15:05:17.150 Script: Retrospectively logging previous script records:
+< 2019-01-17 15:05:17.150 Script: Searching for host...
+< 2019-01-17 15:05:17.150 Script: Host "sftptest" does not exist.
+. 2019-01-17 15:05:17.150 Script: Failed
+> 2019-01-17 15:05:17.150 Script: open sftp://eiwo:***@sftptest.bbiius.com:2222
+. 2019-01-17 15:05:17.150 --------------------------------------------------------------------------
+. 2019-01-17 15:05:17.150 Session name: eiwo@sftptest.bbiius.com (Ad-Hoc site)
+. 2019-01-17 15:05:17.150 Host name: sftptest.bbiius.com (Port: 2222)
+. 2019-01-17 15:05:17.150 User name: eiwo (Password: Yes, Key file: No, Passphrase: No)
+. 2019-01-17 15:05:17.150 Tunnel: No
+. 2019-01-17 15:05:17.150 Transfer Protocol: SFTP
+. 2019-01-17 15:05:17.150 Ping type: Off, Ping interval: 30 sec; Timeout: 15 sec
+. 2019-01-17 15:05:17.150 Disable Nagle: No
+. 2019-01-17 15:05:17.150 Proxy: None
+. 2019-01-17 15:05:17.150 Send buffer: 262144
+. 2019-01-17 15:05:17.150 SSH protocol version: 2; Compression: No
+. 2019-01-17 15:05:17.150 Bypass authentication: No
+. 2019-01-17 15:05:17.150 Try agent: Yes; Agent forwarding: No; TIS/CryptoCard: No; KI: Yes; GSSAPI: Yes
+. 2019-01-17 15:05:17.150 GSSAPI: Forwarding: No; Libs: gssapi32,sspi,custom; Custom: 
+. 2019-01-17 15:05:17.150 Ciphers: aes,chacha20,blowfish,3des,WARN,arcfour,des; Ssh2DES: No
+. 2019-01-17 15:05:17.150 KEX: ecdh,dh-gex-sha1,dh-group14-sha1,rsa,WARN,dh-group1-sha1
+. 2019-01-17 15:05:17.150 SSH Bugs: Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto
+. 2019-01-17 15:05:17.150 Simple channel: Yes
+. 2019-01-17 15:05:17.150 Return code variable: Autodetect; Lookup user groups: Auto
+. 2019-01-17 15:05:17.150 Shell: default
+. 2019-01-17 15:05:17.150 EOL: LF, UTF: Auto
+. 2019-01-17 15:05:17.150 Clear aliases: Yes, Unset nat.vars: Yes, Resolve symlinks: Yes; Follow directory symlinks: No
+. 2019-01-17 15:05:17.150 LS: ls -la, Ign LS warn: Yes, Scp1 Comp: No
+. 2019-01-17 15:05:17.150 SFTP Bugs: Auto,Auto
+. 2019-01-17 15:05:17.150 SFTP Server: default
+. 2019-01-17 15:05:17.150 Local directory: default, Remote directory: home, Update: Yes, Cache: Yes
+. 2019-01-17 15:05:17.150 Cache directory changes: Yes, Permanent: Yes
+. 2019-01-17 15:05:17.150 Recycle bin: Delete to: No, Overwritten to: No, Bin path: 
+. 2019-01-17 15:05:17.150 DST mode: Unix
+. 2019-01-17 15:05:17.150 --------------------------------------------------------------------------
+. 2019-01-17 15:05:17.150 Looking up host "sftptest.bbiius.com" for SSH connection
+. 2019-01-17 15:05:17.150 Connecting to 34.233.97.139 port 2222
+. 2019-01-17 15:05:17.166 We claim version: SSH-2.0-WinSCP_release_5.13.6
+. 2019-01-17 15:05:17.181 Server version: SSH-2.0-FTP Server ready.
+. 2019-01-17 15:05:17.181 Using SSH protocol version 2
+. 2019-01-17 15:05:17.181 Have a known host key of type rsa2
+. 2019-01-17 15:05:17.181 Doing ECDH key exchange with curve nistp256 and hash SHA-256
+. 2019-01-17 15:05:17.291 Host key fingerprint is:
+. 2019-01-17 15:05:17.291 ssh-rsa 2048 13:2d:39:b9:67:ea:71:94:93:81:0f:23:f9:62:ea:d1 OczmL2+CUXuHEGQF7suRYK5jvbQ4NNjlxGRCEDePogU=
+. 2019-01-17 15:05:17.291 Host key matches cached key
+. 2019-01-17 15:05:17.291 Initialised AES-256 SDCTR client->server encryption
+. 2019-01-17 15:05:17.291 Initialised HMAC-SHA-256 client->server MAC algorithm
+. 2019-01-17 15:05:17.291 Initialised AES-256 SDCTR server->client encryption
+. 2019-01-17 15:05:17.291 Initialised HMAC-SHA-256 server->client MAC algorithm
+! 2019-01-17 15:05:17.369 Using username "eiwo".
+. 2019-01-17 15:05:17.385 Server offered these authentication methods: keyboard-interactive,password
+. 2019-01-17 15:05:17.385 Attempting keyboard-interactive authentication
+. 2019-01-17 15:05:17.400 Prompt (keyboard interactive, "SSH server authentication", "Using keyboard-interactive authentication.", "Password: ")
+. 2019-01-17 15:05:17.431 Using stored password.
+. 2019-01-17 15:05:19.181 Network error: Software caused connection abort
+. 2019-01-17 15:06:30.335 --------------------------------------------------------------------------
+. 2019-01-17 15:06:30.335 WinSCP Version 5.13.6 (Build 9061) (OS 10.0.16299 - Windows 10 Pro)
+. 2019-01-17 15:06:30.335 Configuration: HKCU\Software\Martin Prikryl\WinSCP 2\
+. 2019-01-17 15:06:30.335 Log level: Normal
+. 2019-01-17 15:06:30.335 Local account: BBC\cwadmin
+. 2019-01-17 15:06:30.335 Working directory: C:\E-IWO scripts
+. 2019-01-17 15:06:30.335 Process ID: 12512
+. 2019-01-17 15:06:30.335 Command-line: "C:\Program Files (x86)\WinSCP\WinSCP.exe" /console=5.13.6 /consoleinstance=_10836_109 "/log=c:\E-IWO scripts\winscp.log" 
+. 2019-01-17 15:06:30.335 Time zone: Current: GMT-5, Standard: GMT-5 (Eastern Standard Time), DST: GMT-4 (Eastern Daylight Time), DST Start: 3/10/2019, DST End: 11/3/2019
+. 2019-01-17 15:06:30.335 Login time: Thursday, January 17, 2019 3:06:30 PM
+. 2019-01-17 15:06:30.335 --------------------------------------------------------------------------
+. 2019-01-17 15:06:30.335 Script: Retrospectively logging previous script records:
+> 2019-01-17 15:06:30.335 Script: open sftptest.bbiius.com:2222
+. 2019-01-17 15:06:30.335 --------------------------------------------------------------------------
+. 2019-01-17 15:06:30.335 Session name: sftptest.bbiius.com (Ad-Hoc site)
+. 2019-01-17 15:06:30.335 Host name: sftptest.bbiius.com (Port: 2222)
+. 2019-01-17 15:06:30.335 User name:  (Password: No, Key file: No, Passphrase: No)
+. 2019-01-17 15:06:30.335 Tunnel: No
+. 2019-01-17 15:06:30.335 Transfer Protocol: SFTP (SCP)
+. 2019-01-17 15:06:30.335 Ping type: Off, Ping interval: 30 sec; Timeout: 15 sec
+. 2019-01-17 15:06:30.335 Disable Nagle: No
+. 2019-01-17 15:06:30.335 Proxy: None
+. 2019-01-17 15:06:30.335 Send buffer: 262144
+. 2019-01-17 15:06:30.335 SSH protocol version: 2; Compression: No
+. 2019-01-17 15:06:30.335 Bypass authentication: No
+. 2019-01-17 15:06:30.335 Try agent: Yes; Agent forwarding: No; TIS/CryptoCard: No; KI: Yes; GSSAPI: Yes
+. 2019-01-17 15:06:30.335 GSSAPI: Forwarding: No; Libs: gssapi32,sspi,custom; Custom: 
+. 2019-01-17 15:06:30.335 Ciphers: aes,chacha20,blowfish,3des,WARN,arcfour,des; Ssh2DES: No
+. 2019-01-17 15:06:30.335 KEX: ecdh,dh-gex-sha1,dh-group14-sha1,rsa,WARN,dh-group1-sha1
+. 2019-01-17 15:06:30.335 SSH Bugs: Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto
+. 2019-01-17 15:06:30.335 Simple channel: Yes
+. 2019-01-17 15:06:30.335 Return code variable: Autodetect; Lookup user groups: Auto
+. 2019-01-17 15:06:30.335 Shell: default
+. 2019-01-17 15:06:30.335 EOL: LF, UTF: Auto
+. 2019-01-17 15:06:30.335 Clear aliases: Yes, Unset nat.vars: Yes, Resolve symlinks: Yes; Follow directory symlinks: No
+. 2019-01-17 15:06:30.335 LS: ls -la, Ign LS warn: Yes, Scp1 Comp: No
+. 2019-01-17 15:06:30.335 SFTP Bugs: Auto,Auto
+. 2019-01-17 15:06:30.335 SFTP Server: default
+. 2019-01-17 15:06:30.335 Local directory: default, Remote directory: home, Update: Yes, Cache: Yes
+. 2019-01-17 15:06:30.335 Cache directory changes: Yes, Permanent: Yes
+. 2019-01-17 15:06:30.335 Recycle bin: Delete to: No, Overwritten to: No, Bin path: 
+. 2019-01-17 15:06:30.335 DST mode: Unix
+. 2019-01-17 15:06:30.335 --------------------------------------------------------------------------
+. 2019-01-17 15:06:30.335 Looking up host "sftptest.bbiius.com" for SSH connection
+. 2019-01-17 15:06:30.351 Connecting to 34.233.97.139 port 2222
+. 2019-01-17 15:06:30.366 We claim version: SSH-2.0-WinSCP_release_5.13.6
+. 2019-01-17 15:06:30.382 Server version: SSH-2.0-FTP Server ready.
+. 2019-01-17 15:06:30.382 Using SSH protocol version 2
+. 2019-01-17 15:06:30.382 Have a known host key of type rsa2
+. 2019-01-17 15:06:30.382 Doing ECDH key exchange with curve nistp256 and hash SHA-256
+. 2019-01-17 15:06:30.491 Host key fingerprint is:
+. 2019-01-17 15:06:30.491 ssh-rsa 2048 13:2d:39:b9:67:ea:71:94:93:81:0f:23:f9:62:ea:d1 OczmL2+CUXuHEGQF7suRYK5jvbQ4NNjlxGRCEDePogU=
+. 2019-01-17 15:06:30.491 Host key matches cached key
+. 2019-01-17 15:06:30.491 Initialised AES-256 SDCTR client->server encryption
+. 2019-01-17 15:06:30.491 Initialised HMAC-SHA-256 client->server MAC algorithm
+. 2019-01-17 15:06:30.491 Initialised AES-256 SDCTR server->client encryption
+. 2019-01-17 15:06:30.491 Initialised HMAC-SHA-256 server->client MAC algorithm
+. 2019-01-17 15:06:30.554 Prompt (username, "SSH login name", <no instructions>, "login as: ")
+. 2019-01-17 15:06:34.069 Response: "eiwo"
+. 2019-01-17 15:06:34.085 Server offered these authentication methods: keyboard-interactive,password
+. 2019-01-17 15:06:34.085 Attempting keyboard-interactive authentication
+. 2019-01-17 15:06:34.101 Prompt (keyboard interactive, "SSH server authentication", "Using keyboard-interactive authentication.", "Password: ")
+. 2019-01-17 15:06:41.272 Network error: Software caused connection abort
+. 2019-01-17 15:16:21.151 --------------------------------------------------------------------------
+. 2019-01-17 15:16:21.151 WinSCP Version 5.13.6 (Build 9061) (OS 10.0.16299 - Windows 10 Pro)
+. 2019-01-17 15:16:21.151 Configuration: HKCU\Software\Martin Prikryl\WinSCP 2\
+. 2019-01-17 15:16:21.151 Log level: Normal
+. 2019-01-17 15:16:21.151 Local account: BBC\cwadmin
+. 2019-01-17 15:16:21.151 Working directory: C:\E-IWO scripts
+. 2019-01-17 15:16:21.151 Process ID: 12512
+. 2019-01-17 15:16:21.151 Command-line: "C:\Program Files (x86)\WinSCP\WinSCP.exe" /console=5.13.6 /consoleinstance=_10836_109 "/log=c:\E-IWO scripts\winscp.log" 
+. 2019-01-17 15:16:21.151 Time zone: Current: GMT-5, Standard: GMT-5 (Eastern Standard Time), DST: GMT-4 (Eastern Daylight Time), DST Start: 3/10/2019, DST End: 11/3/2019
+. 2019-01-17 15:16:21.151 Login time: Thursday, January 17, 2019 3:16:21 PM
+. 2019-01-17 15:16:21.151 --------------------------------------------------------------------------
+. 2019-01-17 15:16:21.151 Script: Retrospectively logging previous script records:
+< 2019-01-17 15:16:21.151 Script: Searching for host...
+< 2019-01-17 15:16:21.151 Script: Connecting to host...
+< 2019-01-17 15:16:21.151 Script: Authenticating...
+< 2019-01-17 15:16:21.151 Script: Using keyboard-interactive authentication.
+< 2019-01-17 15:16:21.151 Script: Network error: Software caused connection abort
+< 2019-01-17 15:16:21.151 Authentication failed.
+. 2019-01-17 15:16:21.151 Script: Failed
+> 2019-01-17 15:16:21.151 Script: open sftptest.bbiius.com:2222
+. 2019-01-17 15:16:21.151 --------------------------------------------------------------------------
+. 2019-01-17 15:16:21.151 Session name: sftptest.bbiius.com (Ad-Hoc site)
+. 2019-01-17 15:16:21.151 Host name: sftptest.bbiius.com (Port: 2222)
+. 2019-01-17 15:16:21.151 User name:  (Password: No, Key file: No, Passphrase: No)
+. 2019-01-17 15:16:21.151 Tunnel: No
+. 2019-01-17 15:16:21.151 Transfer Protocol: SFTP (SCP)
+. 2019-01-17 15:16:21.151 Ping type: Off, Ping interval: 30 sec; Timeout: 15 sec
+. 2019-01-17 15:16:21.151 Disable Nagle: No
+. 2019-01-17 15:16:21.151 Proxy: None
+. 2019-01-17 15:16:21.151 Send buffer: 262144
+. 2019-01-17 15:16:21.151 SSH protocol version: 2; Compression: No
+. 2019-01-17 15:16:21.151 Bypass authentication: No
+. 2019-01-17 15:16:21.151 Try agent: Yes; Agent forwarding: No; TIS/CryptoCard: No; KI: Yes; GSSAPI: Yes
+. 2019-01-17 15:16:21.151 GSSAPI: Forwarding: No; Libs: gssapi32,sspi,custom; Custom: 
+. 2019-01-17 15:16:21.151 Ciphers: aes,chacha20,blowfish,3des,WARN,arcfour,des; Ssh2DES: No
+. 2019-01-17 15:16:21.151 KEX: ecdh,dh-gex-sha1,dh-group14-sha1,rsa,WARN,dh-group1-sha1
+. 2019-01-17 15:16:21.151 SSH Bugs: Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto
+. 2019-01-17 15:16:21.151 Simple channel: Yes
+. 2019-01-17 15:16:21.151 Return code variable: Autodetect; Lookup user groups: Auto
+. 2019-01-17 15:16:21.151 Shell: default
+. 2019-01-17 15:16:21.151 EOL: LF, UTF: Auto
+. 2019-01-17 15:16:21.151 Clear aliases: Yes, Unset nat.vars: Yes, Resolve symlinks: Yes; Follow directory symlinks: No
+. 2019-01-17 15:16:21.151 LS: ls -la, Ign LS warn: Yes, Scp1 Comp: No
+. 2019-01-17 15:16:21.151 SFTP Bugs: Auto,Auto
+. 2019-01-17 15:16:21.151 SFTP Server: default
+. 2019-01-17 15:16:21.151 Local directory: default, Remote directory: home, Update: Yes, Cache: Yes
+. 2019-01-17 15:16:21.151 Cache directory changes: Yes, Permanent: Yes
+. 2019-01-17 15:16:21.151 Recycle bin: Delete to: No, Overwritten to: No, Bin path: 
+. 2019-01-17 15:16:21.151 DST mode: Unix
+. 2019-01-17 15:16:21.151 --------------------------------------------------------------------------
+. 2019-01-17 15:16:21.151 Looking up host "sftptest.bbiius.com" for SSH connection
+. 2019-01-17 15:16:21.167 Connecting to 34.233.97.139 port 2222
+. 2019-01-17 15:16:21.182 We claim version: SSH-2.0-WinSCP_release_5.13.6
+. 2019-01-17 15:16:21.276 Server version: SSH-2.0-FTP Server ready.
+. 2019-01-17 15:16:21.276 Using SSH protocol version 2
+. 2019-01-17 15:16:21.276 Have a known host key of type rsa2
+. 2019-01-17 15:16:21.276 Doing ECDH key exchange with curve nistp256 and hash SHA-256
+. 2019-01-17 15:16:21.339 Host key fingerprint is:
+. 2019-01-17 15:16:21.339 ssh-rsa 2048 13:2d:39:b9:67:ea:71:94:93:81:0f:23:f9:62:ea:d1 OczmL2+CUXuHEGQF7suRYK5jvbQ4NNjlxGRCEDePogU=
+. 2019-01-17 15:16:21.339 Host key matches cached key
+. 2019-01-17 15:16:21.339 Initialised AES-256 SDCTR client->server encryption
+. 2019-01-17 15:16:21.339 Initialised HMAC-SHA-256 client->server MAC algorithm
+. 2019-01-17 15:16:21.339 Initialised AES-256 SDCTR server->client encryption
+. 2019-01-17 15:16:21.339 Initialised HMAC-SHA-256 server->client MAC algorithm
+. 2019-01-17 15:16:21.401 Prompt (username, "SSH login name", <no instructions>, "login as: ")
+. 2019-01-17 15:16:34.339 Response: "eiwo"
+. 2019-01-17 15:16:34.354 Server offered these authentication methods: keyboard-interactive,password
+. 2019-01-17 15:16:34.354 Attempting keyboard-interactive authentication
+. 2019-01-17 15:16:34.370 Prompt (keyboard interactive, "SSH server authentication", "Using keyboard-interactive authentication.", "Password: ")
+. 2019-01-17 15:16:39.792 Network error: Software caused connection abort
+. 2019-01-17 15:24:05.717 --------------------------------------------------------------------------
+. 2019-01-17 15:24:05.717 WinSCP Version 5.13.7 (Build 9125) (OS 10.0.16299 - Windows 10 Pro)
+. 2019-01-17 15:24:05.717 Configuration: HKCU\Software\Martin Prikryl\WinSCP 2\
+. 2019-01-17 15:24:05.717 Log level: Normal
+. 2019-01-17 15:24:05.717 Local account: BBC\cwadmin
+. 2019-01-17 15:24:05.717 Working directory: C:\E-IWO scripts
+. 2019-01-17 15:24:05.717 Process ID: 14268
+. 2019-01-17 15:24:05.717 Command-line: "C:\Program Files (x86)\WinSCP\WinSCP.exe" /console=5.13.7 /consoleinstance=_13580_104 "/log=c:\E-IWO scripts\winscp.log" 
+. 2019-01-17 15:24:05.717 Time zone: Current: GMT-5, Standard: GMT-5 (Eastern Standard Time), DST: GMT-4 (Eastern Daylight Time), DST Start: 3/10/2019, DST End: 11/3/2019
+. 2019-01-17 15:24:05.717 Login time: Thursday, January 17, 2019 3:24:05 PM
+. 2019-01-17 15:24:05.717 --------------------------------------------------------------------------
+. 2019-01-17 15:24:05.717 Script: Retrospectively logging previous script records:
+> 2019-01-17 15:24:05.717 Script: open sftptest.bbiius.com:2222
+. 2019-01-17 15:24:05.717 --------------------------------------------------------------------------
+. 2019-01-17 15:24:05.717 Session name: sftptest.bbiius.com (Ad-Hoc site)
+. 2019-01-17 15:24:05.717 Host name: sftptest.bbiius.com (Port: 2222)
+. 2019-01-17 15:24:05.717 User name:  (Password: No, Key file: No, Passphrase: No)
+. 2019-01-17 15:24:05.717 Tunnel: No
+. 2019-01-17 15:24:05.717 Transfer Protocol: SFTP (SCP)
+. 2019-01-17 15:24:05.717 Ping type: Off, Ping interval: 30 sec; Timeout: 15 sec
+. 2019-01-17 15:24:05.717 Disable Nagle: No
+. 2019-01-17 15:24:05.717 Proxy: None
+. 2019-01-17 15:24:05.717 Send buffer: 262144
+. 2019-01-17 15:24:05.717 SSH protocol version: 2; Compression: No
+. 2019-01-17 15:24:05.717 Bypass authentication: No
+. 2019-01-17 15:24:05.717 Try agent: Yes; Agent forwarding: No; TIS/CryptoCard: No; KI: Yes; GSSAPI: Yes
+. 2019-01-17 15:24:05.717 GSSAPI: Forwarding: No; Libs: gssapi32,sspi,custom; Custom: 
+. 2019-01-17 15:24:05.717 Ciphers: aes,chacha20,blowfish,3des,WARN,arcfour,des; Ssh2DES: No
+. 2019-01-17 15:24:05.717 KEX: ecdh,dh-gex-sha1,dh-group14-sha1,rsa,WARN,dh-group1-sha1
+. 2019-01-17 15:24:05.717 SSH Bugs: Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto
+. 2019-01-17 15:24:05.717 Simple channel: Yes
+. 2019-01-17 15:24:05.717 Return code variable: Autodetect; Lookup user groups: Auto
+. 2019-01-17 15:24:05.717 Shell: default
+. 2019-01-17 15:24:05.717 EOL: LF, UTF: Auto
+. 2019-01-17 15:24:05.717 Clear aliases: Yes, Unset nat.vars: Yes, Resolve symlinks: Yes; Follow directory symlinks: No
+. 2019-01-17 15:24:05.717 LS: ls -la, Ign LS warn: Yes, Scp1 Comp: No
+. 2019-01-17 15:24:05.717 SFTP Bugs: Auto,Auto
+. 2019-01-17 15:24:05.717 SFTP Server: default
+. 2019-01-17 15:24:05.717 Local directory: default, Remote directory: home, Update: Yes, Cache: Yes
+. 2019-01-17 15:24:05.717 Cache directory changes: Yes, Permanent: Yes
+. 2019-01-17 15:24:05.717 Recycle bin: Delete to: No, Overwritten to: No, Bin path: 
+. 2019-01-17 15:24:05.717 DST mode: Unix
+. 2019-01-17 15:24:05.717 --------------------------------------------------------------------------
+. 2019-01-17 15:24:05.717 Looking up host "sftptest.bbiius.com" for SSH connection
+. 2019-01-17 15:24:05.732 Connecting to 34.233.97.139 port 2222
+. 2019-01-17 15:24:05.748 We claim version: SSH-2.0-WinSCP_release_5.13.7
+. 2019-01-17 15:24:05.764 Server version: SSH-2.0-FTP Server ready.
+. 2019-01-17 15:24:05.764 Using SSH protocol version 2
+. 2019-01-17 15:24:05.764 Have a known host key of type rsa2
+. 2019-01-17 15:24:05.764 Doing ECDH key exchange with curve nistp256 and hash SHA-256
+. 2019-01-17 15:24:05.873 Host key fingerprint is:
+. 2019-01-17 15:24:05.873 ssh-rsa 2048 13:2d:39:b9:67:ea:71:94:93:81:0f:23:f9:62:ea:d1 OczmL2+CUXuHEGQF7suRYK5jvbQ4NNjlxGRCEDePogU=
+. 2019-01-17 15:24:05.873 Host key matches cached key
+. 2019-01-17 15:24:05.873 Initialised AES-256 SDCTR client->server encryption
+. 2019-01-17 15:24:05.873 Initialised HMAC-SHA-256 client->server MAC algorithm
+. 2019-01-17 15:24:05.873 Initialised AES-256 SDCTR server->client encryption
+. 2019-01-17 15:24:05.873 Initialised HMAC-SHA-256 server->client MAC algorithm
+. 2019-01-17 15:24:05.951 Prompt (username, "SSH login name", <no instructions>, "login as: ")
+. 2019-01-17 15:24:10.608 Response: "eiwo"
+. 2019-01-17 15:24:10.623 Server offered these authentication methods: keyboard-interactive,password
+. 2019-01-17 15:24:10.623 Attempting keyboard-interactive authentication
+. 2019-01-17 15:24:10.639 Prompt (keyboard interactive, "SSH server authentication", "Using keyboard-interactive authentication.", "Password: ")
+. 2019-01-17 15:24:16.577 Network error: Software caused connection abort

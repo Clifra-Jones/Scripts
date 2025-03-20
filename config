@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaaoutqfjtrnu5i4zqe7vugzn5riuqnseefgzpghfr7md32wgbaa2xq
+fingerprint=78:84:27:9f:e6:af:5f:e8:53:64:1c:67:c3:b0:2f:02
+key_file=/home/cliff_williams/Keys/OCI_cwilliams@balfourbeattyus.com.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaasdrj2acjjiyz44rlx5dfvotosfzdzatlx6ugr5cfyjjwrq2zmgna
+region=us-ashburn-1
